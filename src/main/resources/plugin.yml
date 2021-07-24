@@ -1,0 +1,8 @@
+name: McShot
+version: 1.0-Beta
+main: id.raznar.mcshot.main
+prefix: McShot
+load: STARTUP
+authors: [ Yusta ]
+description: Call Of Duty in Minecraft
+website: lab.raznar.id
